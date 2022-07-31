@@ -1,4 +1,4 @@
-#League Of Legends Auto Queue
+# League Of Legends Auto Queue
 
 Raw Draft/Concept of program to be built
 

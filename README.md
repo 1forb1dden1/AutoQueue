@@ -1,6 +1,6 @@
 # League Of Legends Auto Queue
 
-Raw Draft/Concept of program to be built
+Raw Draft/Concept
 
 Functionalities</br>
 - auto login</br>
